@@ -13,7 +13,7 @@ namespace Tyuiu.PetrovNE.Sprint0.Task1.V1
             Console.WriteLine("Hello, World");
             string name = "Никита";
             int age = 18;
-            Console.WriteLine("Здравствуйте, меня зовут " + name + " мне " + age + " лет!");
+            Console.WriteLine("Здравствуйте, меня зовут " + name + " мне " + age + " лет! ");
             Console.ReadKey();
         }
     }
